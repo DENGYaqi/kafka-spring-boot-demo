@@ -13,14 +13,14 @@ This is a project of kafka demo, it contains basic configuration and a simple co
 - cluster configuration : copy two more file : server1.properties, server2.properties
 - start kafka server, and create topic "my-replicated-topic", and send some message. Then, when you run this project, you can receive immediately some message.
 
-### 1. replace attribute of application.yml
+### 2. replace attribute of application.yml
 
 - replace bootstrap-servers host and redis host
 
-### 2. send api verify
+### 3. send api verify
 
 - http://localhost:8089/msg/send
 
-### 3. Kafka documentation
+### 4. Kafka note
 
 [Kafka原理解析与实战](https://dengyaqi.github.io/posts/kafka/)
