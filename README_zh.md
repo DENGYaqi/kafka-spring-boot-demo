@@ -4,7 +4,7 @@
 
 ## 启动项目
 
-这是一个kafka demo，包含了基础配置和简易的Controller和消费者。
+这是一个kafka demo，包含了基础配置和简易的Controller和消费者。将会接入AI系统，进行教学优化
 
 ### 1. 下载与安装Kafka
 
